@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmptyColumn component Renders correctly it renders Default EmptyColumn 1`] = `
+<View
+  marginTop={40}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../src/assets/icons/emptyBox.png",
+      }
+    }
+    style={
+      Object {
+        "height": 40,
+        "tintColor": "#4834d4",
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    color="#747d8c"
+    fontFamily=""
+    fontSize={16}
+    style={
+      Array [
+        Object {
+          "color": "#747d8c",
+          "fontSize": 16,
+        },
+      ]
+    }
+  >
+    No items
+  </Text>
+</View>
+`;
